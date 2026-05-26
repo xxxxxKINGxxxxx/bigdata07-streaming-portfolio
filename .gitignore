@@ -25,3 +25,10 @@ desktop.ini
 *.zip
 *.iso
 docker/
+
+# Reports and personal files
+*.docx
+*.pdf
+CLAUDE.md
+*.zip
+Abdallah Big Data Assignment/
