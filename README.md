@@ -16,7 +16,7 @@
 ---
 
 ## 👤 Author
-**Hayagriva Boodhoo** | Student ID: 2025_20379_6980 | Cohort: BDA 7
+**Hayagriva Boodhoo** | Student ID: 2025_20379_6980 | Cohort: BDA 7  | Polytechnic Mauritius
 
 ---
 
