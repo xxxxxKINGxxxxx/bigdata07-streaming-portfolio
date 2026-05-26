@@ -1,0 +1,11 @@
+# Kafka client
+kafka-python-ng==2.2.3
+
+# PostgreSQL driver
+psycopg2-binary==2.9.12
+
+# InfluxDB Python SDK
+influxdb-client==1.40.0
+
+# Environment variable loader
+python-dotenv==1.0.1

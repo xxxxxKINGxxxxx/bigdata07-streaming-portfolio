@@ -1,0 +1,20 @@
+# NEVER commit credentials
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Docker volume data
+postgres_data/
+influxdb_data/
+grafana_data/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# IDE folders
+.vscode/
+.idea/
