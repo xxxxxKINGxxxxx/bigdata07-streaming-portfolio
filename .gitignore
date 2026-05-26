@@ -18,3 +18,10 @@ desktop.ini
 # IDE folders
 .vscode/
 .idea/
+
+# Large files
+*.csv
+*.exe
+*.zip
+*.iso
+docker/
